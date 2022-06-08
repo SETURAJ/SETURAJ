@@ -14,4 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SETURAJ&layout=compact)](https://github.com/SETURAJ/github-readme-stats)
 
-[![name](link to image on GH)](link to your URL)
+
