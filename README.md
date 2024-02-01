@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ... Machine Learning and NLP
 - 🌱 I’m currently learning ... Softwares/Quants
 - 🤔 I’m looking for help with ... Quants/ Low level programming
-- 📫 How to reach me: ... [Portfolio](https://seturaj.github.io/Portfoliosite/)-
+- 📫 How to reach me: ...
     [Linkedin](https://www.linkedin.com/in/seturaj-matroja-72153721a/)
 - ⚡ Fun fact: ... I code for 30 minutes rest of time I do debug and error solving
 
